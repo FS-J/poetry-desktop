@@ -41,7 +41,7 @@ func StartCliApp() {
 
 		cli.StringFlag {
 			Name: "imgloc, l",
-			Value: "images/poetry_bg_0.png",
+			Value: "images/poetry_bg_0.jpg",
 			Usage: "指定背景图片位置",
 		},
 
