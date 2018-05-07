@@ -40,7 +40,7 @@ GLOBAL OPTIONS:
 ![alt text][4]
 
 ## 下载
-1. 请前往 [Releases] [0]页面下载（国内环境下速度可能较慢）
+1. 请前往 [Releases][0] 页面下载（国内环境下速度可能较慢）
 2. [Yandisk][2]
 
 [0]: https://github.com/okcy1016/poetry-desktop/releases
