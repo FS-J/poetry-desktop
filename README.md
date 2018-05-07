@@ -18,7 +18,7 @@ USAGE:
    poetry-desktop.exe [global options] command [command options] [arguments...]                 
                                                                                                 
 VERSION:                                                                                        
-   0.0.0                                                                                        
+   1.0                                                                                        
                                                                                                 
 COMMANDS:                                                                                       
      help, h  Shows a list of commands or help for one command                                  
@@ -40,13 +40,11 @@ GLOBAL OPTIONS:
 ![alt text][4]
 
 ## 下载
-1. 请前往[Releases][0]页面下载（国内环境下速度可能较慢）
+1. 请前往 [Releases] [0]页面下载（国内环境下速度可能较慢）
 2. [Yandisk][2]
-3. 通过[微云的分享][1]下载
 
 [0]: https://github.com/okcy1016/poetry-desktop/releases
-[1]: https://share.weiyun.com/5jXyJe9
-[2]: https://yadi.sk/d/P6JTIwhD3VTjv5
+[2]: https://yadi.sk/d/MhkJwXQ43VUaug
 [3]: http://128.199.227.220:8003/Temp/Screenshot%20from%202018-05-06%2021-26-24.png
 [4]: http://128.199.227.220:8003/Temp/Screenshot%20from%202018-05-06%2021-34-58.png
 
