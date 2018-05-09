@@ -9,7 +9,7 @@
 # 简介
 能够自动、定时地从网路上随机获取一首唐、宋诗或宋词，并将文本整合在背景图片上，最后自动设置为壁纸。
 
-要查看帮助请在程序所在目录打开cmd命令行输入: poetry-desktop --help
+要查看帮助请在程序所在目录打开cmd命令行输入: poetry-desktop.exe --help
 ```
 NAME:                                                                                           
    poetry-desktop.exe - A new cli application                                                   
