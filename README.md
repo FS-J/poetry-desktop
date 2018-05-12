@@ -36,8 +36,8 @@ GLOBAL OPTIONS:
 ```
 
 # 使用效果
-![alt text][3]
-![alt text][4]
+<img src="http://128.199.227.220:8003/Temp/Screenshot%20from%202018-05-06%2021-26-24.png" alt="alt text">
+<img src="http://128.199.227.220:8003/Temp/Screenshot%20from%202018-05-06%2021-34-58.png" alt="alt text">
 
 # 下载
 1. 请前往 [Releases][0] 页面下载（国内环境下速度可能较慢）
@@ -45,8 +45,6 @@ GLOBAL OPTIONS:
 
 [0]: https://github.com/okcy1016/poetry-desktop/releases
 [2]: https://yadi.sk/d/MhkJwXQ43VUaug
-[3]: http://128.199.227.220:8003/Temp/Screenshot%20from%202018-05-06%2021-26-24.png
-[4]: http://128.199.227.220:8003/Temp/Screenshot%20from%202018-05-06%2021-34-58.png
 
 # 致谢
 感谢以下项目的贡献者：
