@@ -1,4 +1,4 @@
-# README 和 Releases 将在明日更新 ！
+# README 和 Releases 将在明日更新 ！ 2018.05.14
 
 # poetry-desktop
 
