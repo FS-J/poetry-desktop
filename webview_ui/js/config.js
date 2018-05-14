@@ -1,1 +1,0 @@
-cfg = {"color":"(0,0,0,0.8)","font":"fonts/FangZhengKaiTiJianTi-1.ttf","fontSize":"26","imgLoc":"webview_ui/images/11.jpg","interval":"1","xOffset":"+0","yOffset":"+0","ifDae":false};
