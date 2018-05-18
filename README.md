@@ -1,3 +1,5 @@
+# README 和 Releases 将在明日更新 ！ 2018.05.14
+
 # poetry-desktop
 
 欢迎使用诗词桌面！
