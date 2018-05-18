@@ -25,13 +25,13 @@ func GenPic(poeStr string, convCfg ConvCfg) string {
 		convCmdSlice = append(convCmdSlice, "-annotate")
 		convCmdSlice = append(convCmdSlice, convCfg.XOffset + convCfg.YOffset)
 		convCmdSlice = append(convCmdSlice, poeStr)
-		convCmdSlice = append(convCmdSlice, "images/out_0.jpg")
+		convCmdSlice = append(convCmdSlice, "webview_ui/images/out_0.jpg")
 
 		convCmd := exec.Command("bin/convert.exe", convCmdSlice...)
 		_, err := convCmd.Output()
 		ChkErr(err)
 	}
 
-	return "images/out_0.jpg"
+	return "webview_ui/images/out_0.jpg"
 }
 

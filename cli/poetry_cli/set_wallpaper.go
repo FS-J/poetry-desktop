@@ -8,7 +8,7 @@ import (
 
 func SetWallPaper(picLoc string, interval int) {
 
-	setWlCmd := exec.Command("bin/wallpaper.exe", "images/out_0.jpg")
+	setWlCmd := exec.Command("bin/wallpaper.exe", "webview_ui/images/out_0.jpg")
 	_, err := setWlCmd.Output()
 	ChkErr(err)
 
