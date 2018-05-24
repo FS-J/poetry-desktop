@@ -8,7 +8,7 @@
 目前仅支持 Windows。
 
 # 简介
-能够自动、定时地从[github][1]上随机获取一首唐、宋诗或宋词，并将文本整合在背景图片上，最后自动设置为壁纸。
+能够自动、定时地从 [github][1] 上随机获取一首唐、宋诗或宋词，并将文本整合在背景图片上，最后自动设置为壁纸。
 
 # 更新日志
 ### v1.1 - 2018.05.18
@@ -28,29 +28,29 @@
 # 致谢
 感谢以下项目的贡献者：
 
-1. 中华古诗词数据库
+1. 中华古诗词数据库  
 https://github.com/chinese-poetry/chinese-poetry
 
-2. A simple, fast, and fun package for building command line apps in Go
+2. A simple, fast, and fun package for building command line apps in Go  
 https://github.com/urfave/cli
 
-3. Tiny cross-platform webview library for C/C++/Golang
+3. Tiny cross-platform webview library for C/C++/Golang  
 https://github.com/zserge/webview
 
-4. A Vue.js 2.0 UI Toolkit for Web
+4. A Vue.js 2.0 UI Toolkit for Web  
 https://github.com/ElemeFE/element
 
-5. ImageMagick 7
+5. ImageMagick 7  
 https://github.com/ImageMagick/ImageMagick
 
-6. Set the desktop wallpaper on Windows
+6. Set the desktop wallpaper on Windows  
 https://github.com/sindresorhus/win-wallpaper
 
 
 
 [0]: https://github.com/okcy1016/poetry-desktop/releases
 [1]: https://github.com/chinese-poetry/chinese-poetry
-[2]: https://yadi.sk/d/MhkJwXQ43VUaug
+[2]: https://yadi.sk/d/RUOf2iUF3WTFJM
 [3]: https://github.com/okcy1016/poetry-desktop/raw/master/tmp/Screenshot%20from%202018-05-18%2016-50-37.png
 [4]: https://github.com/okcy1016/poetry-desktop/raw/master/tmp/show_case_0.png
 [5]: https://github.com/okcy1016/poetry-desktop/raw/master/tmp/show_case_1.png
