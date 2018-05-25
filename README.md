@@ -3,8 +3,7 @@
 
 欢迎使用诗词桌面！
 
-程序使用 Go 语言开发 。
-Webview 部分使用了 [Element UI][7] 。 
+程序使用 Go 语言开发，[Webview][6] 部分使用了 [Element UI][7] 。 
 
 目前仅支持 Windows 。
 
