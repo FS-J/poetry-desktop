@@ -1,3 +1,5 @@
+# Moving to gitlab ...
+https://gitlab.com/okcy1016/poetry-desktop
 
 # poetry-desktop v1.1 2018.05.18
 
