@@ -1,5 +1,6 @@
 # Moved to GitLab - 2018.06.05
 https://gitlab.com/okcy1016/poetry-desktop
+此处仍然会同步更新 ..
 
 # poetry-desktop v1.1 2018.05.18
 
