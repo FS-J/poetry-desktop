@@ -55,8 +55,8 @@ https://github.com/sindresorhus/win-wallpaper
 [0]: https://github.com/okcy1016/poetry-desktop/releases
 [1]: https://github.com/chinese-poetry/chinese-poetry
 [2]: https://yadi.sk/d/RUOf2iUF3WTFJM
-[3]: https://github.com/okcy1016/poetry-desktop/raw/master/tmp/Screenshot%20from%202018-05-18%2016-50-37.png
-[4]: https://github.com/okcy1016/poetry-desktop/raw/master/tmp/show_case_0.png
-[5]: https://github.com/okcy1016/poetry-desktop/raw/master/tmp/show_case_1.png
+[3]: https://github.com/okcy1016/poetry-desktop/raw/master/screenshots/Screenshot%20from%202018-05-18%2016-50-37.png
+[4]: https://github.com/okcy1016/poetry-desktop/raw/master/screenshots/show_case_0.png
+[5]: https://github.com/okcy1016/poetry-desktop/raw/master/screenshots/show_case_1.png
 [6]: https://github.com/zserge/webview
 [7]: https://github.com/ElemeFE/element
