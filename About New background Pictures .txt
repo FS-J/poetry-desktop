@@ -1,0 +1,6 @@
+﻿在image下添加相应的文件
+
+修改js/main.js文件中的Main 下的imgSelOptions
+
+最后在webview_ui/index.html的相应<template></template>中
+添加<p></p><img>
